@@ -1,5 +1,5 @@
 # [CodeWars][Python] Sort the odd
-
+https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/solutions/python
 
 You have an array of numbers.
 Your task is to sort ascending odd numbers but even numbers must be on their places.
